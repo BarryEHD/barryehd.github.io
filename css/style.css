@@ -1,5 +1,6 @@
 body {
     font-size: 16px;
+    background-color: grey;
 }
 
 .primary-header
@@ -15,6 +16,43 @@ body {
     font-family: fantasy
 }
 
+
+.primary-header{
+    padding: 1rem;
+    
+}
+
 .primary-header h2{
     font-size: 1rem;
 }
+
+.topbar{
+    background-color: grey;
+    padding: 0.5rem;
+}
+
+.topbar li {
+    display: inline;
+    padding:1rem;
+}
+
+.topbar a {
+    color: white;
+}
+
+
+
+.col {
+    float: left;
+    width: 6rem;
+    height: 6rem;
+    padding: 1rem;
+    background-color: #CACFD2;
+    Color:white;
+}
+
+
+**clear float**
+
+
+**clear fix**
